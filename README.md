@@ -1,6 +1,11 @@
 # CS Messaging Web App
 
-This is a web application for CS Messaging. It allows users to send and receive messages in real-time.
+## Overview
+This is a Customer Support Messaging Web Application designed to facilitate communication between customers and support agents. It allows users to send and receive messages in real-time, improving customer support and service.
+
+## Application Link
+
+You can access the web application here: [Customer Support Messaging Web App](https://csmessagingwebappfrontendfinal.onrender.com)
 
 ## Getting Started
 
@@ -81,6 +86,7 @@ You can use the following credentials to log in to the application:
 | - | ---------------- | ---------------- |
 | 7 | Username: customer6 |                  |
 |   | Password: customer6 |                  |
+
 Note: Customer registration is possible, but agent registration is not available. Agents can only be added by administrators with specific privileges.
    
 ## Optional Step 6: Set Up Your MongoDB Atlas Database
