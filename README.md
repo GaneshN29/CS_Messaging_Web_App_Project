@@ -25,7 +25,7 @@ Please follow this article until "Step 2: : Install Create React App" to install
 
 ### 3. Open the Project in Visual Studio Code
 
-Open the "CS_Messaging_Web_App" folder in Visual Studio Code.
+Open the "CS_Messaging_Web_App_Project" folder in Visual Studio Code.
 
 ### 4. Start the Frontend
 
