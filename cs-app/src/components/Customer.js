@@ -198,6 +198,7 @@ const Customer = () => {
                     {calculateDaysAndHoursPassed(query.Status, query.createtimestamp, query.closetimestamp).days} days{' '}
                     {calculateDaysAndHoursPassed(query.Status, query.createtimestamp, query.closetimestamp).hours} hours
                   </p>
+                  {query.Status === 'closed' && <p><span className="timestamp-label">Closed time:</span> {formatTimestamp(query.closetimestamp)}</p>}
               {query.agentname!=="" && <p><span className="agent-label">Agent:</span> {query.agentname}</p>}
             </div>
           </div>

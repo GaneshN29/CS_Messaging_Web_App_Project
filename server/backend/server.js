@@ -166,7 +166,7 @@ app.post('/updateQuery', async (req, res) => {
   }
 });
 
-//Creating a message promt
+//Creating a message prompt
 app.post('/addMessage', async (req, res) => {
   try {
     const { queryId } = req.body;
